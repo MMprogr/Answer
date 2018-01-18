@@ -1,0 +1,27 @@
+body{
+    background-color: #c190dc;
+    color: white;
+}
+
+nav{
+    float: left;
+    height: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+    font-size: 42px;
+}
+
+
+nav .logo{
+    display:inline;
+}
+nav .menu{
+    display:inline;
+    float: right;
+
+}
+
+hr {
+    border-color: white;
+}
